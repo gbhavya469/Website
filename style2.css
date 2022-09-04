@@ -1,0 +1,95 @@
+body{
+   text-align: center;
+   margin: 0;
+   font-family: Arial, Helvetica, sans-serif;
+   font-size: 20px;
+
+   
+}
+.profile{
+  background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaG4RDgXW0-qv0gL5FQvVueAt84Zw015tPphKyS33r&s);
+  margin-bottom: 0;
+ 
+}
+h1{
+width: auto;
+}
+p{
+width: auto;
+}
+.div1{
+  position: absolute;
+    top: 150px;
+    left: 44%;
+}
+.top-container{
+    text-align: center;
+    position: relative;
+    color: rgb(255, 255, 255);
+}
+.hello_image{
+  width: 6%;
+  padding: 1% ;
+  position: relative;
+  bottom: 370px;
+  left: 13%;
+}
+.cloud_img{
+  margin: 0;
+  width: 45%;
+  position: relative;
+left: 6%;
+bottom: 10%;
+}
+.lines{
+  width: 28%;
+  position: relative;
+  bottom: 330px;
+  left: 63%;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+.profile-pic{
+  width: 30%;
+  position: relative;
+  bottom: 100px;
+}
+.minions1{
+  height: 14%;
+  width: 14%;
+  position: relative;
+  bottom: 150px;
+}
+.middle-container{
+  background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaG4RDgXW0-qv0gL5FQvVueAt84Zw015tPphKyS33r&s);
+ 
+}
+.bottom-container{
+  background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaG4RDgXW0-qv0gL5FQvVueAt84Zw015tPphKyS33r&s);
+ margin: 0;
+}
+.contact{
+  margin: 0;;
+}
+.skills-pic{
+  height: 10%;
+  width: 10%;
+  position: relative;
+  right: 30%;
+}
+.skill-table{
+  position: relative;
+  bottom: 120px;
+}
+.minions2{
+  height: 14%;
+  width: 14%;
+  position: relative;
+  bottom: 70px;
+}
+.contacti{
+  height: 2%;
+  width: 2%;
+  position: relative;
+  top: 5px;
+}
