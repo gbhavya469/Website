@@ -66,7 +66,7 @@ bottom: 10%;
 }
 .bottom-container{
   background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaG4RDgXW0-qv0gL5FQvVueAt84Zw015tPphKyS33r&s);
- margin:0 0 0 0;
+  margin-bottom:0;
 }
 .contact{
   margin: 0;;
